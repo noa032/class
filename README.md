@@ -49,11 +49,3 @@
 * **邏輯架構**: 
     * `while` 迴圈控制遊戲生命週期。
     * `try-except` 捕捉異常輸入。
-
----
-
-## 🚀 快速上手 (Quick Start)
-
-1. **複製儲存庫**
-   ```bash
-   git clone [https://github.com/your-username/number-survival.git](https://github.com/your-username/number-survival.git)
