@@ -22,7 +22,6 @@
       <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Coder" width="100px" style="border-radius: 50%;" />
     </td>
     <td>
-      <h3>探索者 / Python 初學者</h3>
       <p>
         你好！我是一名對 <b>自動化</b> 與 <b>遊戲開發</b> 充滿熱情的開發者。 
         我致力於撰寫簡潔、易讀且具備趣味性的程式碼，並持續探索 AI 與程式邏輯的無限可能。
